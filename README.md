@@ -1,3 +1,3 @@
 ## Hi, I'm Dozo 👋
-- Arch Linux, Hyprland
-- JS/TS, Python
+- Arch Linux, Hyprland, Omarchy
+- JS/TS, Python, C++
